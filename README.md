@@ -22,4 +22,4 @@ Here are some ideas to get you started:
 
 So I ... 
 
-![](soraka.gif)
+![](https://github.com/ToridoHikki/ToridoHikki/raw/master/soraka.gif)
