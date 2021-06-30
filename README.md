@@ -20,6 +20,6 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning ...
 - ⚡ Fun fact: I love seeing my ❤️ coding 😂
 
-So I ... 
+So I've decided to become a QC :>
 
-![](https://github.com/ToridoHikki/ToridoHikki/raw/master/soraka.gif)
+![](https://github.com/ToridoHikki/ToridoHikki/blob/master/annie.jpeg)
