@@ -15,11 +15,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ### I'M TORIDO
-![](https://github.com/ToridoHikki/ToridoHikki/raw/master/p_cat_hentai.gif)
+<img src="https://github.com/ToridoHikki/ToridoHikki/raw/master/p_cat_hentai.gif" style="width: 50%; height: 50%"/>
+<!-- ![](https://github.com/ToridoHikki/ToridoHikki/raw/master/p_cat_hentai.gif) -->
 
-- 🌱 I’m currently learning ...
 - ⚡ Fun fact: I love seeing my ❤️ coding 😂
 
 So I've decided to become a QC :>
+<img src="https://github.com/ToridoHikki/ToridoHikki/blob/master/annie.jpeg" style="width: 50%; height: 50%"/>
+<!--![](https://github.com/ToridoHikki/ToridoHikki/blob/master/annie.jpeg)-->
 
-![](https://github.com/ToridoHikki/ToridoHikki/blob/master/annie.jpeg)
