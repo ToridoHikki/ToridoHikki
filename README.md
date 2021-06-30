@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ### I'M TORIDO
-<img src="https://github.com/ToridoHikki/ToridoHikki/raw/master/p_cat_hentai.gif" style="width: 50%; height: 50%"/>
+<!--<img src="https://github.com/ToridoHikki/ToridoHikki/raw/master/p_cat_hentai.gif" style="width: 50%; height: 50%"/> -->
 <!-- ![](https://github.com/ToridoHikki/ToridoHikki/raw/master/p_cat_hentai.gif) -->
 
 I love seeing my ❤️ coding 😂
