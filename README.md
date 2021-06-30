@@ -22,6 +22,6 @@ Here are some ideas to get you started:
 
 So I've decided to become a QC :>
 
-[]<img src="https://github.com/ToridoHikki/ToridoHikki/blob/master/Hnet.com-image.jpg" style="width: 50%; height: 50%"/>
+<img src="https://github.com/ToridoHikki/ToridoHikki/blob/master/Hnet.com-image.jpg" style="width: 50%; height: 50%"/>
 <!--![](https://github.com/ToridoHikki/ToridoHikki/blob/master/annie.jpeg)-->
 
