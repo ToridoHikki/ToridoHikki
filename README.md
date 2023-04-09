@@ -1,7 +1,13 @@
-![cat3](https://user-images.githubusercontent.com/37542947/230781130-5ae7df00-ddb7-413f-88e2-cdcb5508c4b4.png)
+
+### Hi there !! ![cat sticker copy](https://user-images.githubusercontent.com/37542947/230782378-dac62373-1058-40be-81f9-6226565b89a5.png)
+
+### TORIDO Coming 
 
 
-### Hi there 👋
+
+![catduoipts](https://user-images.githubusercontent.com/37542947/230782208-40ef261b-cd82-42c2-bba3-f998df3e54ab.png)
+
+
 
 
 
@@ -20,7 +26,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-### I'M TORIDO 🙀
 <!--<img src="https://github.com/ToridoHikki/ToridoHikki/raw/master/p_cat_hentai.gif" style="width: 50%; height: 50%"/> -->
 <!-- ![](https://github.com/ToridoHikki/ToridoHikki/raw/master/p_cat_hentai.gif) -->
 
