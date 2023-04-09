@@ -1,13 +1,10 @@
 
-### Hi there !! ![cat sticker copy](https://user-images.githubusercontent.com/37542947/230782378-dac62373-1058-40be-81f9-6226565b89a5.png)
-
-### TORIDO Coming 
+### Hi there !! 
+<div src= "[!blingbing](https://user-images.githubusercontent.com/37542947/230782849-c92bf8fb-7412-44f0-b855-9afdd8f9a859.gif"> ### TORIDO Coming </div>
 
 
 
 ![catduoipts](https://user-images.githubusercontent.com/37542947/230782208-40ef261b-cd82-42c2-bba3-f998df3e54ab.png)
-
-
 
 
 
