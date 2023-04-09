@@ -1,7 +1,10 @@
-### Hi there 👋
-```
+![cat3](https://user-images.githubusercontent.com/37542947/230781130-5ae7df00-ddb7-413f-88e2-cdcb5508c4b4.png)
 
-```
+
+### Hi there 👋
+
+
+
 
 <!--
 **ToridoHikki/ToridoHikki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -17,7 +20,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-### I'M TORIDO
+### I'M TORIDO 🙀
 <!--<img src="https://github.com/ToridoHikki/ToridoHikki/raw/master/p_cat_hentai.gif" style="width: 50%; height: 50%"/> -->
 <!-- ![](https://github.com/ToridoHikki/ToridoHikki/raw/master/p_cat_hentai.gif) -->
 
